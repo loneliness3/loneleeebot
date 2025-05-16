@@ -4,7 +4,7 @@
     "main": "loneleeebot.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node loneleeebot.js"
+      "start": "node loneleebot.js"
     },
     "keywords": [],
     "author": "",
